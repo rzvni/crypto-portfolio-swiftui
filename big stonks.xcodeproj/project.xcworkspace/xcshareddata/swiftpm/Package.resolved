@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AppPear/ChartView.git",
+        "state": {
+          "branch": "v2-data-structure",
+          "revision": "5d6ba3b5ccc967cd0db99725754fb7fbd9819c22",
+          "version": null
+        }
+      },
+      {
+        "package": "QGrid",
+        "repositoryURL": "https://github.com/Q-Mobile/QGrid.git",
+        "state": {
+          "branch": null,
+          "revision": "804e59f8cb9f66b226685e9369fb82029742b83a",
+          "version": "0.1.4"
+        }
+      },
+      {
+        "package": "URLImage",
+        "repositoryURL": "https://github.com/dmytro-anokhin/url-image.git",
+        "state": {
+          "branch": null,
+          "revision": "a48feef3ef91f573a5f55779502e07adb19943b8",
+          "version": "0.9.15"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
